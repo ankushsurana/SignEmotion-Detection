@@ -43,3 +43,6 @@ The system detects:
    - Evaluate accuracy using validation data.
 3. **Real-Time Detection**:
    - Run the live video feed cell to detect sign language and facial emotions in real-time.
+
+
+![img 2](https://github.com/user-attachments/assets/0d5d7602-61c4-4ff0-a2b7-cb7ab139ea83)
